@@ -50,7 +50,7 @@ MENU:
 }
 
 void sum(big fator1, big fator2, big *result) {
-  printf("1");
+  printf("chegou");
 }
 
 void sub(big minuendo, big subtraendo, big *resto) {
